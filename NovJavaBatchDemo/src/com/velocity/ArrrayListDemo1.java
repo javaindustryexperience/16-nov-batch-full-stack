@@ -11,6 +11,7 @@ public class ArrrayListDemo1 {
 		al.add("mumbai");
 		al.add("bangalore");
 		System.out.println(al);
+		System.out.println("List of Cities>>>>"+al);
 	}
 
 }
